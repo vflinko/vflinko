@@ -6,8 +6,6 @@
 ### :woman_technologist: STATS :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vflinko&show_icons=true&theme=radical)
 
-
-<div> Автор иконок: <a href="https://www.freepik.com" title="Freepik"> Freepik </a> from <a href="https://www.flaticon.com/ru/" title="Flaticon">www.flaticon.com'</a></div>
 ### :woman_technologist: About Me :
 - 👋 Hi, I’m Flinko,here I will post codes for bdfd
 
