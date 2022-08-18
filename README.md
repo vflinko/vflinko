@@ -34,8 +34,9 @@
 ---
 ### ⚙  Languages and Tools :
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://cdn-icons.flaticon.com/png/512/3098/premium/3098090.png?token=exp=1660801544~hmac=b9dd3c9d492f48b703c8b73e3277ea5a" title="python" alt="py" width="40" height="40"/>&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/136/136528.png" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/136/136527.png" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 
 ---
 
