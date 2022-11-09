@@ -19,11 +19,13 @@
 ---
 
 ### ✏  About Me :
-- 👋 Hi, I’m Flinko,here I will post guides and codes on the topic Bot Designer For Discord
-
+- 👋 Hello, I'm **Flinco**. In short, I'll tell you about my project. My project is based on a discord bot, which is written in Bot Designer for Discord or just bdfd. 
+The platform presents the ability to quickly write a discord bot without any problems, it is very easy to learn. Using this platform and all its possibilities, a multifunctional bot was created: **"Dogiman".**
+**what is a bot?** - A unique economy that will not let you get bored, moderation, interaction with participants, creating tickets, utilities for the convenience and security of the server, premium features.
+Gradually, the project will develop, I vouch for your support.
 ---
 
-### 👑  Stats :
+### 👑  Stats : 
 
 <div align="center">
 
