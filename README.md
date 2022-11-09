@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-<img src="https://i.gifer.com/xK.gif"/>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/1784011762661171638/13D90599CD0252461E6EDF254088F48B2B8154DE/?imw=512&amp;imh=405&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true"/>
 
 </div>
 
