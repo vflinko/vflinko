@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<a href="https://youtube.com/channel/UC6wxUUCcg25HadmXsjgeklg"> <img src="https://img.shields.io/badge/YouTube-blueviolet?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/> </a>
+<a href="https://youtube.com/@v.flinko?si=9jxTtkwCpQWNl-Mt"> <img src="https://img.shields.io/badge/YouTube-blueviolet?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/> </a>
 <a href="https://discord.gg/4jdNhx5fHw"> <img src="https://img.shields.io/badge/Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/> </a>
 <a href="https://t.me/v_flinko"> <img src="https://img.shields.io/badge/Telegram-blueviolet?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/> </a>
 
